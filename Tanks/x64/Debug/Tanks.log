@@ -1,0 +1,140 @@
+﻿  Source.cpp
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(1,33): warning C4081: требуется "newline"; обнаружен "."
+C:\Users\maxim\source\repos\Tanks\Tanks\Enemy.h(30,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Enemy.h(30,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Enemy.h(159,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Enemy.h(160,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Bullet.h(37,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(33,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(33,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(115,17): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(123,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(136,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(149,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(162,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(171,86): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(213,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(214,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(218,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(222,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(226,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(230,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(238,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(242,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(246,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(250,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(258,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(262,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(266,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(270,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(278,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(282,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(286,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Tank.h(290,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(107,12): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(114,47): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(152,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(152,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(159,70): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(160,70): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(161,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(162,70): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(163,72): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(166,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(167,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(168,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(169,70): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(170,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(171,72): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(176,70): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(177,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(178,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(179,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(183,70): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(184,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(185,70): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(186,70): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(187,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(188,71): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(189,72): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(362,118): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(371,118): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(384,34): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(396,118): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(405,118): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(418,34): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(447,16): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(448,17): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(498,16): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(499,17): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(503,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(508,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(513,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(518,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(628,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(631,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(639,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(649,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(657,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(667,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(675,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(685,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(693,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(706,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(709,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(717,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(727,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(735,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(745,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(753,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(764,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(772,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(786,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(787,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(831,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(832,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(940,16): warning C4551: в вызове функции отсутствует список аргументов
+D:\Visual Studio\VC\Tools\MSVC\14.27.29110\include\xmemory(693,1): error C3074: Массив невозможно инициализировать с использованием инициализатора в круглых скобках.
+D:\Visual Studio\VC\Tools\MSVC\14.27.29110\include\vector(682): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const sf::String(&)[16]>(_Alloc &,_Objty (*const ),const sf::String (&)[16])"
+          with
+          [
+              _Alloc=std::allocator<sf::String [16]>,
+              _Ty=sf::String [16],
+              _Objty=sf::String [16]
+          ]
+D:\Visual Studio\VC\Tools\MSVC\14.27.29110\include\vector(687): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const sf::String(&)[16]>(_Alloc &,_Objty (*const ),const sf::String (&)[16])"
+          with
+          [
+              _Alloc=std::allocator<sf::String [16]>,
+              _Ty=sf::String [16],
+              _Objty=sf::String [16]
+          ]
+D:\Visual Studio\VC\Tools\MSVC\14.27.29110\include\vector(700): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<sf::String [16],std::allocator<sf::String [16]>>::_Emplace_back_with_unused_capacity<const sf::String(&)[16]>(const sf::String (&)[16])"
+D:\Visual Studio\VC\Tools\MSVC\14.27.29110\include\vector(717): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<sf::String [16],std::allocator<sf::String [16]>>::emplace_back<const sf::String(&)[16]>(const sf::String (&)[16])"
+D:\Visual Studio\VC\Tools\MSVC\14.27.29110\include\vector(716): message : во время компиляции функции-члена класс шаблон "void std::vector<sf::String [16],std::allocator<sf::String [16]>>::push_back(const _Ty (&))"
+          with
+          [
+              _Ty=sf::String [16]
+          ]
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(73): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<sf::String [16],std::allocator<sf::String [16]>>::push_back(const _Ty (&))"
+          with
+          [
+              _Ty=sf::String [16]
+          ]
+C:\Users\maxim\source\repos\Tanks\Tanks\Source.cpp(72): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::vector<sf::String [16],std::allocator<sf::String [16]>>"
